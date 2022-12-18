@@ -1,11 +1,5 @@
-import APIComponent from "./APIComponent";
-
 function App() {
-  return (
-    <div>
-      <APIComponent></APIComponent>
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
