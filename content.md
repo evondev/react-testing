@@ -1,0 +1,7 @@
+- Component testing
+- Multiple element testing
+- Event handler testing
+- State testing
+- Async hook testing
+- Redux testing
+- Zustand testing
