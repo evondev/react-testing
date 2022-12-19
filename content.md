@@ -1,4 +1,4 @@
-- Component testing
+- Basic Component testing
 - Multiple element testing
 - Event handler testing
 - State testing
