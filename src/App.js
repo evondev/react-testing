@@ -1,9 +1,10 @@
 import Counter from "./Counter";
+import { CounterRedux } from "./CounterRedux";
 
 function App() {
   return (
     <div>
-      <Counter></Counter>
+      <CounterRedux></CounterRedux>
     </div>
   );
 }
